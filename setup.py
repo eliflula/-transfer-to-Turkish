@@ -1,3 +1,9 @@
+from setuptools import setup, find_packages
+
+VERSION = '1.1.4'
+DESCRIPTION = "A package for translating csv files across multiple languages"
+
+LONG_DESCIPTION = """
 # Universal Translator for csv files
 
 [![Downloads](https://static.pepy.tech/personalized-badge/csv-trans?period=total&units=international_system&left_color=grey&right_color=brightgreen&left_text=Downloads)](https://pepy.tech/project/csv-trans)    [![PyPI](https://img.shields.io/pypi/v/csv-trans)](https://pypi.org/project/csv-trans/)   [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/csv-trans)](https://pypi.org/project/csv-trans/)
@@ -36,6 +42,8 @@ translate(file, source_language, target_language, sep=',')
  csv_trans -f <file_name> -sl <source_language> -tl <target_language> -fs <file_seperator>
 ```
 
+
+For Further information, checkout our [GitHub Page](https://github.com/ML-Dev-Hub/universal-translator-for-csv-files).
      
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -55,3 +63,51 @@ translate(file, source_language, target_language, sep=',')
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+"""
+
+setup(
+    name="csv_trans",
+    version=VERSION,
+    author="Saeed Ahmad",
+    author_email="saeedahmad.icp@gmail.com",
+    description=DESCRIPTION,
+    long_description=LONG_DESCIPTION,
+    long_description_content_type="text/markdown",
+    url="https://github.com/ML-Dev-Hub/universal-translator-for-csv-files",
+    packages=find_packages(),
+    python_requires=">=3.6",
+    install_requires=[
+        "click",
+        "beautifulsoup4",
+        "certifi",
+        "chardet",
+        "charset-normalizer",
+        "colorama",
+        "deep-translator==1.10.1",
+        "googletrans",
+        "idna",
+        "numpy",
+        "pandas",
+        "pyarrow",
+        "python-dateutil",
+        "pytz",
+        "requests",
+        "six",
+        "soupsieve",
+        "tqdm",
+        "urllib3",
+        ],
+    entry_points={
+        "console_scripts": [
+            "csv_trans = csv_trans.cli:main"
+        ]
+    },
+    keywords=['python', 'csv', 'translate', 'translator', 'google',
+              'google translator', 'google translate', 'translate csv'],
+    classifiers=[
+        "Programming Language :: Python :: 3",
+        "Intended Audience :: Developers",
+        "Operating System :: OS Independent",
+        "License :: OSI Approved :: MIT License",
+    ],
+)
