@@ -1,0 +1,43 @@
+query,answer,context,sample_number,tokens,category,query1,answer1,context1
+What is the total amount of the invoice?,"$22,500.00","Services Vendor Inc. 
+100 Elm Street Pleasantville, NY 
+TO Alpha Inc. 5900 1st Street Los Angeles, CA 
+Description Front End Engineering Service $5000.00 
+ Back End Engineering Service $7500.00 
+ Quality Assurance Manager $10,000.00 
+ Total Amount $22,500.00 
+Make all checks payable to Services Vendor Inc. Payment is due within 30 days.If you have any questions concerning this invoice, contact Bia Hermes. THANK YOU FOR YOUR BUSINESS!  INVOICE INVOICE # 0001 DATE 01/01/2022 FOR Alpha Project P.O. # 1000",0,138,core,MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 35 MINUTES 13 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE,MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 35 MINUTES 11 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE,QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS
+What is the invoice number?,#0001,"Services Vendor Inc. 
+100 Elm Street Pleasantville, NY 
+TO Alpha Inc. 5900 1st Street Los Angeles, CA 
+Description Front End Engineering Service $5000.00 
+ Back End Engineering Service $7500.00 
+ Quality Assurance Manager $10,000.00 
+ Total Amount $22,500.00 
+Make all checks payable to Services Vendor Inc. Payment is due within 30 days.If you have any questions concerning this invoice, contact Bia Hermes. THANK YOU FOR YOUR BUSINESS!  INVOICE INVOICE # 0001 DATE 01/01/2022 FOR Alpha Project P.O. # 1000",1,138,core,MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 35 MINUTES 13 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE,MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 35 MINUTES 10 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE,QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS
+What is a list of the items being purchased?,"•Front End Engineering Service;
+•Back End Engineering Service;
+•Quality Assurance Manager","Services Vendor Inc. 
+100 Elm Street Pleasantville, NY 
+TO Alpha Inc. 5900 1st Street Los Angeles, CA 
+Description Front End Engineering Service $5000.00 
+ Back End Engineering Service $7500.00 
+ Quality Assurance Manager $10,000.00 
+ Total Amount $22,500.00 
+Make all checks payable to Services Vendor Inc. Payment is due within 30 days.If you have any questions concerning this invoice, contact Bia Hermes. THANK YOU FOR YOUR BUSINESS!  INVOICE INVOICE # 0001 DATE 01/01/2022 FOR Alpha Project P.O. # 1000",2,138,core,MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 35 MINUTES 12 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE,MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 35 MINUTES 10 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE,QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS
+What is the name of the contact for question?,Bia Hermes,"Services Vendor Inc. 
+100 Elm Street Pleasantville, NY 
+TO Alpha Inc. 5900 1st Street Los Angeles, CA 
+Description Front End Engineering Service $5000.00 
+ Back End Engineering Service $7500.00 
+ Quality Assurance Manager $10,000.00 
+ Total Amount $22,500.00 
+Make all checks payable to Services Vendor Inc. Payment is due within 30 days.If you have any questions concerning this invoice, contact Bia Hermes. THANK YOU FOR YOUR BUSINESS!  INVOICE INVOICE # 0001 DATE 01/01/2022 FOR Alpha Project P.O. # 1000",3,138,core,MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 35 MINUTES 12 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE,MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 35 MINUTES 09 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE,QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS
+What is the PO number?,#1000,"Services Vendor Inc. 
+100 Elm Street Pleasantville, NY 
+TO Alpha Inc. 5900 1st Street Los Angeles, CA 
+Description Front End Engineering Service $5000.00 
+ Back End Engineering Service $7500.00 
+ Quality Assurance Manager $10,000.00 
+ Total Amount $22,500.00 
+Make all checks payable to Services Vendor Inc. Payment is due within 30 days.If you have any questions concerning this invoice, contact Bia Hermes. THANK YOU FOR YOUR BUSINESS!  INVOICE INVOICE # 0001 DATE 01/01/2022 FOR Alpha Project P.O. # 1000",4,138,core,MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 35 MINUTES 11 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE,MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  14 HOURS 35 MINUTES 08 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE,QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS
